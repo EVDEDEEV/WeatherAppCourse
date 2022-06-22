@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ASProjects2/WeatherAppCourse/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/ASProjects2/WeatherAppCourse/app/src/main/res/layout/fragment_days.xml" value="0.25416666666666665" />
+        <entry key="..\:/ASProjects2/WeatherAppCourse/app/src/main/res/layout/fragment_hours.xml" value="0.23333333333333334" />
         <entry key="..\:/ASProjects2/WeatherAppCourse/app/src/main/res/layout/fragment_main.xml" value="0.4" />
       </map>
     </option>
